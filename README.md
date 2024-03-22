@@ -30,3 +30,5 @@
 - Copilot
 - Visual Studio
 - GitBash
+- Roam Research
+- Obsidian
