@@ -6,9 +6,9 @@
 
 - I’m currently working as a software systems developer for Pantex, which is a DOE production facility where I work on things like:
   - bug fixes
-  - code clean-up
-  - programming application enhancements
-  - connecting data apps with custom integrations
+  - code enhancements
+  - application enhancements
+  - connecting data apps with custom in-house applications
   - maintaining Azure DevOps and all codebases
 - Formerly I was a data analyst and developer working on custom data applications for Xcel Energy.
 - Formerly at a financial technology company I implemented business intelligence and automation software to support the marketing department. I also built a brand new website for the company that introduced the ability to manage field service tickets.
