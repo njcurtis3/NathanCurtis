@@ -15,6 +15,7 @@
 - I’m currently learning:
   - C#
   - Python
+  - Haskell
   - LLM integrations
   - Go
   - SQL & Oracle database administration
