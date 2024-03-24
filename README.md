@@ -24,9 +24,9 @@
 
 ## 🔧 Tools I Love & Use
 
-- Pytorch
-- Jupyter Notebook
-- Hugo
+- [Pytorch](https://github.com/njcurtis3/EmoTorch)
+- [Jupyter Notebook](https://github.com/njcurtis3/in-self-driving-car/blob/main/traffic-light-classifier/home/Traffic_Light_Classifier.ipynb)
+- [Hugo](https://lifetank.life/)
 - Copilot
 - Visual Studio
 - GitBash
