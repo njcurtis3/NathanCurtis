@@ -10,6 +10,7 @@
   - application enhancements
   - connecting data apps with custom in-house applications
   - maintaining Azure DevOps and all codebases
+  - Implementing new software for users
 - Formerly I was a data analyst and developer working on custom data applications for Xcel Energy.
 - Formerly at a financial technology company I implemented business intelligence and automation software to support the marketing department. I also built a new website for the company that introduced the ability to manage field service tickets.
 - I’m currently learning:
